@@ -1,5 +1,7 @@
 ## Introducción POO
 
+[Regresar](/CodingBootcampsESPOL-RDDW/)
+
 La programación orientada a objetos (POO) es un paradigma de programación. es decir, un modelo o un estilo de programación que nos da una guía sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. 
 
 <p align="center">
@@ -67,6 +69,6 @@ Referencias
 
 * * *
 
-* Use classes and variables to transfer your OOP model into code. Retrieved March 7, 2023, from https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/3-model-your-game
+* Use classes and variables to transfer your OOP model into code. Retrieved March 7, 2023, from [https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/3-model-your-game](https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/3-model-your-game)
 
 * Add behavior with methods. Retrieved March 7, 2023, from[https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/5-game-transitions-with-methods](https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/5-game-transitions-with-methods)
