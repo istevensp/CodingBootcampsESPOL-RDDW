@@ -4,7 +4,8 @@
 
 ### Unidad 1
 * Trabajando con python 
-  * [POO en python](guias/poo-python.md)
+  * POO en python
+    * [Introducción a POO](guias/poo-python/introduccion-poo.md)
   * [Bases de datos](guias/bases-de-datos.md)
   * [MySQL en Python](guias/mysql-python.md)
 * Instalar Django 
