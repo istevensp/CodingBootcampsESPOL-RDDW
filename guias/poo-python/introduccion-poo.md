@@ -3,7 +3,7 @@
 La programación orientada a objetos (POO) es un paradigma de programación. es decir, un modelo o un estilo de programación que nos da una guía sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. 
 
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DIzpeifw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ce4hh9a22iczp43yn6e2.png" width="80%" alt="Banner POO"/>
+<img src="https://kinsta.com/es/wp-content/uploads/sites/8/2021/07/python-object-oriented-programming-1024x512.jpeg" width="50%" alt="Banner POO"/>
 </p>
 El primer y más importante concepto de la POO es la distinción entre clase y objeto.
 
@@ -14,7 +14,7 @@ Objeto
 Un objeto es un actor. Es algo que hace algo dentro de un sistema. Como resultado de realizar una acción, cambia de estado dentro de sí mismo o de otros objetos.  En el mundo real, un objeto podria ser automóvil, puede usar propiedades como marca, modelo, color y tipo de automóvil.
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/b4/a8/a4/b4a8a4625f6b8ef4418150efff833d04.gif" width="50%" alt="Banner POO"/>
+<img src="https://i.pinimg.com/originals/b4/a8/a4/b4a8a4625f6b8ef4418150efff833d04.gif" width="40%" alt="Banner POO"/>
 </p>
 
 Clases
@@ -31,7 +31,7 @@ Una clase en Python se crea usando la palabra clave classy dándole un nombre, c
   ```
 
 <p align="center">
-<img src="https://edteam-media.s3.amazonaws.com/blogs/original/73f3c7ca-93b3-41b1-be08-5b2945f07c1b.png" width="40%" alt="Banner POO"/>
+<img src="https://edteam-media.s3.amazonaws.com/blogs/original/73f3c7ca-93b3-41b1-be08-5b2945f07c1b.png" width="30%" alt="Banner POO"/>
 </p>
 
 Métodos
