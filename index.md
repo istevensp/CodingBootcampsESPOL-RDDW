@@ -12,6 +12,7 @@
     * [Constructor](guias/poo-python/constructor.md)
     * [Tipado de objetos](guias/poo-python/tipado-objetos.md)
     * [Visibilidad de atributos](guias/poo-python/visibilidad-atributos.md)
+    * [Herencia](guias/poo-python/herencia.md)
   * [Bases de datos](guias/bases-de-datos.md)
   * [MySQL en Python](guias/mysql-python.md)
 * Instalar Django 
