@@ -22,9 +22,11 @@ Un objeto es un actor. Es algo que hace algo dentro de un sistema. Como resultad
 Clases
 ===========
 
-* * *  ```Python
+* * *  
+
+```Python
   class Car:
-  ```
+```
 
 Una clase es un tipo de datos que actúa como una definición de plantilla para un tipo particular de objeto.  Una clase es un modelo de un objeto. Donde la clase es el modelo de un automóvil, el objeto es el automóvil real que conduce. La clase es lo que escribes en el código. 
 
