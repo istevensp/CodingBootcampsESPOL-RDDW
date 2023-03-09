@@ -7,6 +7,7 @@
   * POO en python
     * [Introducción a POO](guias/poo-python/introduccion-poo.md)
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
+    * [Getters y Setters](guias/poo-python/getters-setters.md)
   * [Bases de datos](guias/bases-de-datos.md)
   * [MySQL en Python](guias/mysql-python.md)
 * Instalar Django 
