@@ -9,6 +9,7 @@
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
     * [Getters y Setters](guias/poo-python/getters-setters.md)
     * [Múltiples objetos](guias/poo-python/multiples-objetos.md)
+    * [Constructor](guias/poo-python/constructor.md)
   * [Bases de datos](guias/bases-de-datos.md)
   * [MySQL en Python](guias/mysql-python.md)
 * Instalar Django 
