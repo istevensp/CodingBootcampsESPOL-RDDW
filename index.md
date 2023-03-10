@@ -16,6 +16,7 @@
   * [Bases de datos](guias/bases-de-datos.md)
   * [MySQL en Python]
     * [Instalación de MySQL para python](guias/mysql-python.md)
+    * [Creación de base de datos](guias/creacion-bd.md)
 * Instalar Django 
   * [Crear el primer proyecto de Django](guias/primer-proyecto-Django.md)
   * [Crear Apps de Django](guias/apps-Django.md)
