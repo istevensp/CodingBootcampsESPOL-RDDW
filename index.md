@@ -14,12 +14,12 @@
     * [Visibilidad de atributos](guias/poo-python/visibilidad-atributos.md)
     * [Herencia](guias/poo-python/herencia.md)
   * [Bases de datos](guias/bases-de-datos.md)
-  * [MySQL en Python]
+  * MySQL en Python
     * [Instalación de MySQL para python](guias/mysql-python.md)
     * [Creación de base de datos](guias/creacion-bd.md)
     * [Tablas en MySQL](guias/tablas-mysql.md)
 * Instalar Django 
-  * [Crear el primer proyecto de Django](guias/primer-proyecto-Django.md)
+  * [Primer proyecto de Django](guias/primer-proyecto-Django.md)
   * [Crear Apps de Django](guias/apps-Django.md)
 * Trabajando con python 
   * [Vistas en Django](guias/vistas-Django.md)
