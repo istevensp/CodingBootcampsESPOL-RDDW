@@ -14,7 +14,8 @@
     * [Visibilidad de atributos](guias/poo-python/visibilidad-atributos.md)
     * [Herencia](guias/poo-python/herencia.md)
   * [Bases de datos](guias/bases-de-datos.md)
-  * [MySQL en Python](guias/mysql-python.md)
+  * [MySQL en Python]
+    * [Instalación de MySQL para python](guias/mysql-python.md)
 * Instalar Django 
   * [Crear el primer proyecto de Django](guias/primer-proyecto-Django.md)
   * [Crear Apps de Django](guias/apps-Django.md)
