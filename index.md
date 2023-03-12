@@ -25,4 +25,5 @@
   * Vistas en Django
     * [Creación de vistas y rutas](./guias/vistas.md)
     * [Múltiples de vistas y rutas](guias/multiples-vistas.md)
+    * [Ejemplo con las vistas](guias/ejemplo-vistas.md)
   * [Plantillas en Django](guias/plantillas-Django.md)

@@ -2,7 +2,7 @@
 
 [Regresar](/CodingBootcampsESPOL-RDDW/)
 
-+ En el la sección anterior de [vistas de django](./apps-Django.md) se trabajó con la creación de una vista, continuaremos editando el arhcivo views.py y urls.py. 
++ En el la sección anterior de [vistas de django](./apps-Django.md) se trabajó con la creación de una vista, continuaremos editando el archivo views.py y urls.py. 
 
 + Dentro del proyecto general de AprendiendoDjango se encuentra una subcarpeta con el mismo nombre y ahí se encontrará el archivo urls.py  y agregamos la ruta. 
 
@@ -45,5 +45,5 @@ path('pagina-pruebas', views.pagina, name="pagina")
 ```
 + Accede en el navegador web al enlace  http://127.0.0.1:8000/pagina-pruebas y visualizarás el contenido que se encuentra en la función página. 
 <p align="center">
-<img src="./imagenes/pagina-web.png" width="40%" alt="Banner POO"/>
+<img src="./imagenes/pagina-web.png" width="40%" alt="Banner"/>
 </p>
