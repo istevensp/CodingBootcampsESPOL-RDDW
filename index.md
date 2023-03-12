@@ -26,4 +26,5 @@
     * [Creación de vistas y rutas](./guias/vistas.md)
     * [Múltiples de vistas y rutas](guias/multiples-vistas.md)
     * [Ejemplo con las vistas](guias/ejemplo-vistas.md)
+    * [Navegación entre rutas](guias/navegacion-rutas.md)
   * [Plantillas en Django](guias/plantillas-Django.md)
