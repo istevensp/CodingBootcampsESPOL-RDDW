@@ -30,3 +30,4 @@
     * [Parámetros en rutas](guias/parametros-rutas.md)
     * [Redirecciones](guias/redirecciones.md)
   * [Plantillas en Django](guias/plantillas-Django.md)
+    * [Layout, bloques y herencia de plantillas](guias/layout-bloques.md)

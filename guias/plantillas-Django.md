@@ -1,5 +1,7 @@
 ## Plantillas en Django
 
+[Regresar](/CodingBootcampsESPOL-RDDW/)
+
 Al ser un marco web, Django necesita una forma conveniente de generar HTML dinámicamente. El enfoque más común se basa en plantillas. Una plantilla contiene las partes estáticas de la salida HTML deseada, así como alguna sintaxis especial que describe cómo se insertará el contenido dinámico.
 
 + En la carpeta miapp crear una subcarpeta con el nombre templates y de ahi un archivo index.html que tendrá la plantilla relacionada al index.
