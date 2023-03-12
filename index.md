@@ -21,6 +21,7 @@
 * Instalar Django 
   * [Primer proyecto de Django](guias/primer-proyecto-Django.md)
   * [Crear Apps de Django](guias/apps-Django.md)
-* Trabajando con python 
-  * [Vistas en Django](guias/vistas-Django.md)
+* Rutas en python 
+  * Vistas en Django
+    * [Creación de vistas y rutas](./guias/vistas.md)
   * [Plantillas en Django](guias/plantillas-Django.md)
