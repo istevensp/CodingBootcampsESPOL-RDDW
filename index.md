@@ -28,4 +28,5 @@
     * [Ejemplo con las vistas](guias/ejemplo-vistas.md)
     * [Navegación entre rutas](guias/navegacion-rutas.md)
     * [Parámetros en rutas](guias/parametros-rutas.md)
+    * [Redirecciones](guias/redirecciones.md)
   * [Plantillas en Django](guias/plantillas-Django.md)
