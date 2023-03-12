@@ -43,3 +43,22 @@ path('contacto/<str:nombre>/<str:apellido>', views.contacto, name="contacto")
 def contacto(request, nombre,apellido):
     return HttpResponse(layout+f"<h1>Contacto {nombre} {apellido}</h1>")
 ```
+
+## Parámetros opcionales en las rutas
+
++ En el archivo urls.py añadir lo siguiente.
+
+```python
+path('contacto/', views.contacto, name="contacto"),
+path('contacto/<str:nombre>/', views.contacto, name="contacto"),
+```
++ En el archivo views.py también se den realizar modificaciones.
+
+```python
+def contacto(request, nombre="",apellido=""):
+    html = ""
+    if nombre and apellido:
+        html +="<p>El nombre completo es: </p>"
+        html = f"<h3> {nombre} {apellido} </h3>"
+    return HttpResponse(layout+f"<h1>Contacto</h1>"+html)
+```
