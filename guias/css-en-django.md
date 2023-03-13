@@ -20,7 +20,6 @@ body{
 
 
 ```
-{% load static %}
 <!DOCTYPE html>
 <html lang="es">
 <head>
