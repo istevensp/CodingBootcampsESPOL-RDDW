@@ -23,7 +23,7 @@
   * [Crear Apps de Django](guias/apps-Django.md)
 * Rutas en python 
   * Vistas en Django
-    * [Creación de vistas y rutas](./guias/vistas.md)
+    * [Creación de vistas y rutas](guias/vistas.md)
     * [Múltiples de vistas y rutas](guias/multiples-vistas.md)
     * [Ejemplo con las vistas](guias/ejemplo-vistas.md)
     * [Navegación entre rutas](guias/navegacion-rutas.md)
@@ -31,3 +31,4 @@
     * [Redirecciones](guias/redirecciones.md)
   * [Plantillas en Django](guias/plantillas-Django.md)
     * [Layout, bloques y herencia de plantillas](guias/layout-bloques.md)
+    * [Vincular hojas de estilo CSS en Django](guias/css-django.md)
