@@ -1,3 +1,6 @@
+---
+remote_theme: chrisrhymes/bulma-clean-theme
+---
 ## Vincular hojas de estilo CSS en Django. 
 
 [Regresar](/CodingBootcampsESPOL-RDDW/)

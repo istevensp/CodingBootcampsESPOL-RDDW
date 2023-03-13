@@ -1,3 +1,6 @@
+---
+remote_theme: chrisrhymes/bulma-clean-theme
+---
 ## Layout, bloques y herencia de plantillas
 
 [Regresar](/CodingBootcampsESPOL-RDDW/)
