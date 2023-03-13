@@ -18,22 +18,9 @@ body{
 
 + Para que el estilo css se visualize en la web debemos usarla dentro de cada archivo de la carpeta template. En este caso nos basaremos en el archivo layout.html, añadiendo el href y al inicio cargando los archivos static.
 
-
-```
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="utf-8"/>
-
-    <title> 
-        
-        {% block title %}
-        {% endblock %}
-    </title>
-
-    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}" />
-</head>
-```
+<p align="center">
+<img src="./imagenes/layout.png"  alt="Banner NPM" width="50%"/>
+</p>
 
 + Abrir la consola y ubicarse en el directorio de AprendiendoDjango y ejecutamos el comando `python manage.py runserver`. 
 
