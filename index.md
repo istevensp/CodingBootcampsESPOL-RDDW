@@ -4,6 +4,8 @@
 
 ### Unidad 1
 * Trabajando con python 
+  * Repaso de python
+    * [Introducción](guias/repaso-python/introduccion.md)
   * POO en python
     * [Introducción a POO](guias/poo-python/introduccion-poo.md)
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
