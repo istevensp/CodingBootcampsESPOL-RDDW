@@ -31,4 +31,4 @@
     * [Redirecciones](guias/redirecciones.md)
   * [Plantillas en Django](guias/plantillas-Django.md)
     * [Layout, bloques y herencia de plantillas](guias/layout-bloques.md)
-    * [Vincular hojas de estilo CSS en Django](guias/css-django.md)
+    * [Vincular hojas de estilo CSS en Django](guias/css-en-django.md)
