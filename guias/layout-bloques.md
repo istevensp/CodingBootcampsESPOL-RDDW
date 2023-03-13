@@ -4,7 +4,7 @@
 
 + Continuando con la parte de layout. Ahora se creará el archivo layout.html en la carpeta de templates.
 
-```html
+```
 <!DOCTYPE html>
 <html lang="es">
 <head>

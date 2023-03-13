@@ -16,7 +16,7 @@ body{
 + Para que el estilo css se visualize en la web debemos usarla dentro de cada archivo de la carpeta template. En este caso nos basaremos en el archivo layout.html, añadiendo el href y al inicio cargando los archivos static.
 
 
-```html
+```
 {% load static %}
 <!DOCTYPE html>
 <html lang="es">
