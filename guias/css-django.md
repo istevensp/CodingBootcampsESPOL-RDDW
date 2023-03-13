@@ -6,7 +6,7 @@ Hojas de Estilo en Cascada (del inglés Cascading Style Sheets) o CSS es el leng
 
 + Continuamos trabajando el proyecto AprendiendoDjango específicamente en la carpeta miapp en la que se creará una nueva carpeta con el nombre static. De ahí se crea una nueva carpeta con el nombre de css. Luego, dentro de la carpeta css se procede a crear el archivo styles.css. 
 
-```css
+```
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: blueviolet;
