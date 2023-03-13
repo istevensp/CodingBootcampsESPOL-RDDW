@@ -5,16 +5,6 @@
 + Continuando con la parte de layout. Ahora se creará el archivo layout.html en la carpeta de templates.
 
 ```
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="utf-8"/>
-    <title> 
-        
-        {% block title %}
-        {% endblock %}
-    </title>
-</head>
 <body>
         <h1> Sitio web con Django </h1>
     <hr/>
@@ -44,5 +34,4 @@
         Master en Python &copy;
     </footer>
 </body>
-</html>
 ```
