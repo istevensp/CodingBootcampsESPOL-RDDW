@@ -7,6 +7,7 @@
   * Repaso de python
     * [Introducción](guias/repaso-python/introduccion.md)
     * [Variables y tipo de datos](guias/repaso-python/variable-tipoDeDatos.md)
+    * [Estructuras de control](guias/repaso-python/estructuras-control.md)
   * POO en python
     * [Introducción a POO](guias/poo-python/introduccion-poo.md)
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
