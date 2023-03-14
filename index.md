@@ -9,6 +9,7 @@
     * [Variables y tipo de datos](guias/repaso-python/variable-tipoDeDatos.md)
     * [Estructuras de control](guias/repaso-python/estructuras-control.md)
     * [Listas](guias/repaso-python/listas.md)
+    * [Arreglos](guias/repaso-python/arreglos.md)
   * POO en python
     * [Introducción a POO](guias/poo-python/introduccion-poo.md)
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
