@@ -10,6 +10,7 @@
     * [Estructuras de control](guias/repaso-python/estructuras-control.md)
     * [Listas](guias/repaso-python/listas.md)
     * [Arreglos](guias/repaso-python/arreglos.md)
+    * [Funciones](guias/repaso-python/funciones.md)
   * POO en python
     * [Introducción a POO](guias/poo-python/introduccion-poo.md)
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
