@@ -184,10 +184,12 @@ y = int(2.8)
 x = float(1)
 y = str(2)
 ```
+
 Formato de salida (old)
 ===========
 
 * * *
+
 <p align="center">
 <img src="../imagenes/old.png" width="50%" alt="Banner"/>
 </p>
@@ -213,10 +215,12 @@ print("The numbers are: {:d} “.format(25, 50))​
 print("El valor de pi es: {:.2f}.“.format (math.pi))​
 print("The cities are: {1}, {0}“.format('Quito', 'Guayaquil'))
 ```
+
 Secuencia de escape
 ===========
 
 * * *
+
 <p align="center">
 <img src="../imagenes/escape.png" width="50%" alt="Banner"/>
 </p>
@@ -225,6 +229,7 @@ Secuencia de escape
 print("This is\'nt True")
 This is'nt True
 ```
+
 Múltiples líneas 
 ===========
 
