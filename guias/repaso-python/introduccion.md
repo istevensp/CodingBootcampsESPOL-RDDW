@@ -1,6 +1,7 @@
 ## Introducción a Python
 
 [Regresar](/CodingBootcampsESPOL-RDDW/)
+
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhNTM4Yzg4NjYzN2EyNGU0NDRmNmQ4MTY0YWFiOWMzYzFiYWM4ZSZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="40%" alt="Banner"/>
 </p>
