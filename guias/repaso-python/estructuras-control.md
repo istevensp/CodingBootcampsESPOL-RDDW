@@ -35,10 +35,6 @@ if(x != 10 ):
 
 ```
 
-<p align="center">
-<img src="../imagenes/if.png" width="40%" alt="Banner"/>
-</p>
-
 Expresiones Booleanas (Condiciones)
 ===========
 
@@ -156,12 +152,15 @@ Imprimir el porcentaje de impuestos a pagar de acuerdo al ingreso.
 ```python
 ingresos = int(input("Escriba su ingreso: "))
 if ingresos < 15000:
-print("No tax")  elif ingresos < 30000:
-print("18% tax")  elif ingresos < 50000:
-print("22% tax")
-elif ingresos < 100000:  print("28% tax")
+    print("No tax")  
+elif ingresos < 30000:
+    print("18% tax")  
+elif ingresos < 50000:
+    print("22% tax")
+elif ingresos < 100000:  
+    print("28% tax")
 else:
-print("31% tax")
+    print("31% tax")
 ```
 
 Ahora se debe crear un programa en el que se imprima la letra correspondiente de los alumnos que obtienen notas en letras de acuerdo a la siguiente tabla. 
