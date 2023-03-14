@@ -2,7 +2,7 @@
 
 [Regresar](/CodingBootcampsESPOL-RDDW/)
 
-+ En el la sección anterior de [vistas de django](./apps-Django.md) se trabajó con la creación de una vista, continuaremos editando el archivo views.py y urls.py. 
++ En el la sección anterior de [vistas de django](./vistas.md) se trabajó con la creación de una vista, continuaremos editando el archivo views.py y urls.py. 
 
 + Dentro del proyecto general de AprendiendoDjango se encuentra una subcarpeta con el mismo nombre y ahí se encontrará el archivo urls.py  y agregamos la ruta. 
 

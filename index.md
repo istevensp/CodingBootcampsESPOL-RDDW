@@ -33,7 +33,7 @@
 * Rutas en python 
   * Vistas en Django
     * [Creación de vistas y rutas](guias/vistas.md)
-    * [Múltiples de vistas y rutas](guias/multiples-vistas.md)
+    * [Múltiples vistas y rutas](guias/multiples-vistas.md)
     * [Ejemplo con las vistas](guias/ejemplo-vistas.md)
     * [Navegación entre rutas](guias/navegacion-rutas.md)
     * [Parámetros en rutas](guias/parametros-rutas.md)
