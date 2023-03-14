@@ -321,7 +321,7 @@ Math Library
 
 * * *
 <p align="center">
-<img src="../imagenes/math.png" width="50%" alt="Banner"/>
+<img src="../imagenes/mathç.png" width="50%" alt="Banner"/>
 </p>
 
 ```python
@@ -336,6 +336,7 @@ Ingrese la cantidad de grados a convertir: 50
 Al convertir 50 grados en radianes, obtuvimos 0.873
 
 ```
+
 Aleatoriedad 
 ===========
 
