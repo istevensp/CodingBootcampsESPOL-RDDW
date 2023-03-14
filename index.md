@@ -11,6 +11,8 @@
     * [Listas](guias/repaso-python/listas.md)
     * [Arreglos](guias/repaso-python/arreglos.md)
     * [Funciones](guias/repaso-python/funciones.md)
+    * [Colecciones](guias/repaso-python/colecciones.md)
+    * [Archivos](guias/repaso-python/archivos.md)
   * POO en python
     * [Introducción a POO](guias/poo-python/introduccion-poo.md)
     * [Clases y objetos](guias/poo-python/clases-objetos.md)
