@@ -62,4 +62,5 @@
   * [Ejecutar sql desde Django](guias/unidad2/sql-django.md)
 * [Formularios, crear vistas y urls](guias/unidad2/formularios-vistas-url.md)
   * [Métodos GET, POST](guias/unidad2/get-post.md)
+  * [Formulario basado en clases](guias/unidad2/formulario-clases.md)
   
