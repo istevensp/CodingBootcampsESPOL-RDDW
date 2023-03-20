@@ -19,20 +19,12 @@ return render(request, "index.html", {
 ```
 *  En el archivo index.html insertamos el siguiente código que nos permitirá mediante el bucle for mostrar los años hasta el 2050 pero con la condición de que sean los años pares. 
 
-```html
-<p> Años hasta el 2050: </p>
-<ul>
-    {% for year in years %}
-        {% if year|divisibleby:2 != 0 %}  
-            <li> {{year}}</li>
-        {%endif%}
-    {% endfor %}
-
-</ul>
-```
+<p align="center">
+<img src="../imagenes/index.png" width="40%" alt="Banner"/>
+</p>
 
 <p align="center">
-<img src="../imagenes/anio.png" width="50%" alt="Banner"/>
+<img src="../imagenes/anio.png" width="40%" alt="Banner"/>
 </p>
 
 Include templates django

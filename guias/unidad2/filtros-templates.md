@@ -59,10 +59,10 @@ def saludo(value):
 
 * El filtro que hemos creado ya puede ser usado en cualquiera de las plantillas, lo cargaremos en el archivo pagina.html. 
 
-```django
-{% load filters %}
-{{"WEB"|saludo|safe}}
-```
+<p align="center">
+<img src="../imagenes/filter.png" width="40%" alt="Banner"/>
+</p>
+
 * Reiniciamos la ejecución del servidor para visualizar los cambios.
 
 <p align="center">

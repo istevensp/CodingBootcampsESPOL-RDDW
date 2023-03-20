@@ -4,20 +4,20 @@
 
 * En el archivo views.py que se encuentra en la subcarpeta miapp del directorio AprendiendoDjango, crearemos una nueva función con el nombre articulo.
 
-```h
+```py
 def articulo(request):
     return HttpResponse(f"Articulo:")
 ```
 
 * Ahora se creará la url correspondiente añadiendo la nueva ruta al array de urlpatterns.
 
-```h
+```py
 path('articulo/', views.articulo, name="articulo")
 ```
 
 * Para mostrar un artículo se debe hacer una consulta en la base de datos y eso lo haremos en la función articulo del archivo views.py. La función get() nos permitirá extraer un solo registro de la base de datos. En este caso el artículo de primary key = 5.
 
-```h
+```py
 def articulo(request):
     articulo = Article.objects.get(pk=5)
     return HttpResponse(f"Articulo: {articulo.title}")
@@ -29,7 +29,7 @@ def articulo(request):
 
 * Se pueden añadir distintas condiciones como por ejmplo que el title sea "Nuevo articulo" y que el atributo public sea True.
 
-```h
+```py
 def articulo(request):
     articulo = Article.objects.get(title="Nuevo articulo", public=True)
     return HttpResponse(f"Articulo: {articulo.title}")
@@ -37,7 +37,7 @@ def articulo(request):
 
 * Añadiremos un try para manejar el caso en que nos de una excepción.
 
-```h
+```py
 def articulo(request):
     try:
         articulo = Article.objects.get(title="Nuevo articulo", public=True)
