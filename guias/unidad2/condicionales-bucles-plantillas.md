@@ -41,20 +41,15 @@ p{
 
 * Ahora se hacemos uso de los condicionales, con el ejemplo anterior primero validaremos que si existe el nombre se muestre el contenido de la variable nombre, añade las siguientes modificaciones en el index.html.
 
-```html
-{% if nombre %}
-    <p> {{nombre}} </p>
-{{ endif }}
-```
+<p align="center">
+<img src="../imagenes/iff.png" width="50%" alt="Banner"/>
+</p>
+
 * También se puede añadir el condicional else de la siguiente forma. 
 
-```html
-{% if nombre %}
-    <p> {{nombre}} </p>
-{% else %}
-    <strong> El nombre no existe </strong>
-{% endif %}
-```
+<p align="center">
+<img src="../imagenes/ifT.png" width="50%" alt="Banner"/>
+</p>
 
 * Modificaremos el return de la función index que se encuentra en el archivo views.py, eliminando la variable nombre, ejecutamos el servidor y visualizamos los cambios.
 
