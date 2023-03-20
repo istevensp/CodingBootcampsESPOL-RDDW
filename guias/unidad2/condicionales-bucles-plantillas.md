@@ -41,14 +41,14 @@ p{
 
 * Ahora se hacemos uso de los condicionales, con el ejemplo anterior primero validaremos que si existe el nombre se muestre el contenido de la variable nombre, añade las siguientes modificaciones en el index.html.
 
-```h
+```html
 {% if nombre %}
     <p> {{nombre}} </p>
 {{ endif }}
 ```
 * También se puede añadir el condicional else de la siguiente forma. 
 
-```h
+```html
 {% if nombre %}
     <p> {{nombre}} </p>
 {% else %}
