@@ -122,7 +122,7 @@ Funcionalidades extras del bucle For
 
 * Una de las funcionalidades extra es verificar si la lista anterior está vacia, esto se lo hará añadiendole la instrucción de empty. 
 
-```django
+```h
 <ul>
     {% for lenguaje in lenguajes %}
 
@@ -134,7 +134,7 @@ Funcionalidades extras del bucle For
 ```
 * Otra funcionalidad extra es extraer el primer elemento de la lista. La instrucción forloop.first nos permite validar lo anterior. Y si se desea obtener el último de la lista se reemplaza el first por last (forloop.last).
 
-```django
+```h
 <ul>
     {% for lenguaje in lenguajes %}
 
