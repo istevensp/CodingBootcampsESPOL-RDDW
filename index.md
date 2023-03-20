@@ -61,4 +61,5 @@
     * [Consultas con condiciones, filter y lookups](guias/unidad2/condiciones-filter-lookups.md)
   * [Ejecutar sql desde Django](guias/unidad2/sql-django.md)
 * [Formularios, crear vistas y urls](guias/unidad2/formularios-vistas-url.md)
+  * [Métodos GET, POST](guias/unidad2/get-post.md)
   
