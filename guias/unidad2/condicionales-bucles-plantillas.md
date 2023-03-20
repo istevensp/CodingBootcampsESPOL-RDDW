@@ -122,25 +122,12 @@ Funcionalidades extras del bucle For
 
 * Una de las funcionalidades extra es verificar si la lista anterior está vacia, esto se lo hará añadiendole la instrucción de empty. 
 
-```h
-<ul>
-    {% for lenguaje in lenguajes %}
+<p align="center">
+<img src="../imagenes/empty.png" width="50%" alt="Banner"/>
+</p>
 
-        <li> {{lenguaje}} </li>
-    {% empty %}
-        <p> NO HAY LENGUAJES QUE MOSTRAR </p>
-    {% endfor %}
-</ul>
-```
 * Otra funcionalidad extra es extraer el primer elemento de la lista. La instrucción forloop.first nos permite validar lo anterior. Y si se desea obtener el último de la lista se reemplaza el first por last (forloop.last).
 
-```h
-<ul>
-    {% for lenguaje in lenguajes %}
-
-        <li> {{lenguaje}} {{forloop.first}}</li>
-    {% empty %}
-        <p> NO HAY LENGUAJES QUE MOSTRAR </p>
-    {% endfor %}
-</ul>
-```
+<p align="center">
+<img src="../imagenes/empty2.png" width="50%" alt="Banner"/>
+</p>
