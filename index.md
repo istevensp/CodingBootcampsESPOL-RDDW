@@ -60,3 +60,5 @@
     * [Borrar elementos](guias/unidad2/borrar-elementos.md)
     * [Consultas con condiciones, filter y lookups](guias/unidad2/condiciones-filter-lookups.md)
   * [Ejecutar sql desde Django](guias/unidad2/sql-django.md)
+* [Formularios, crear vistas y urls](guias/unidad2/formularios-vistas-url.md)
+  
