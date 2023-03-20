@@ -63,4 +63,5 @@
 * [Formularios, crear vistas y urls](guias/unidad2/formularios-vistas-url.md)
   * [Métodos GET, POST](guias/unidad2/get-post.md)
   * [Formulario basado en clases](guias/unidad2/formulario-clases.md)
+  * [Django Form API](guias/unidad2/django-form-api.md)
   
