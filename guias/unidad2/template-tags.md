@@ -67,6 +67,6 @@ Fechas
 
 * Modificamos el archivo layout.html dentro del footer para colocar la fecha con las isntrucción now.
 
-```html
-Master en Python &copy; WEB - {% now "d/m/Y" %}
-```
+<p align="center">
+<img src="../imagenes/now.png" width="50%" alt="Banner"/>
+</p>
