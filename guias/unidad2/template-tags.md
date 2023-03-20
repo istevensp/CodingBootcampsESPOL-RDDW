@@ -41,9 +41,9 @@ Include templates django
 
 * La plantilla anterior se puede incluir dentro de otra plantilla en este caso se la incluirá en la plantilla index.html. 
 
-```py
-{% include "fecha_actual.html" %}
-```
+<p align="center">
+<img src="../imagenes/include1.png" width="50%" alt="Banner"/>
+</p>
 
 <p align="center">
 <img src="../imagenes/include.png" width="50%" alt="Banner"/>
