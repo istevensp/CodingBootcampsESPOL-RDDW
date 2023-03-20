@@ -56,22 +56,9 @@ Urls en template
 
 Moficamos el layout.html utilizando url para cada item de la barra de navegación. 
 
-```html
-<ul>
-        <li>
-            <a href="{% url "index" %}"> Inicio </a>
-        </li>
-        <li>
-            <a href="{% url "hola_mundo" %}"> Hola Mundo </a>
-        </li>
-        <li>
-            <a href="{% url "pagina" %}"> Página de prueba </a>
-        </li>
-        <li>
-            <a href="{% url "contacto" %}"> Contacto </a>
-        </li>
-    </ul>
-```
+<p align="center">
+<img src="../imagenes/layout1.png" width="50%" alt="Banner"/>
+</p>
 
 Fechas
 ===========
