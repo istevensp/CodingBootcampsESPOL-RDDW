@@ -41,3 +41,22 @@
   * [Plantillas en Django](guias/plantillas-Django.md)
     * [Layout, bloques y herencia de plantillas](guias/layout-bloques.md)
     * [Vincular hojas de estilo CSS en Django](guias/css-en-django.md)
+
+### Unidad 2
+* Estilos y apariencias
+  * Lenguaje de Plantillas
+    * [Comentarios en plantillas](guias/unidad2/comentarios-plantillas.md)
+    * [Datos de vistas y visualizarlos en plantilla](guias/unidad2/datos-visualizacion.md)
+    * [Condicionales y bucles en las plantillas de Django](guias/unidad2/condicionales-bucles-plantillas.md)
+    * [Template tags](guias/unidad2/template-tags.md)
+  * [Filtros en las templates](guias/unidad2/filtros-templates.md)
+* [Pylint para Django](guias/unidad2/pylint-django.md)
+  * [Crear modelos](guias/unidad2/crear-modelos.md)
+  * Manejo de registros
+    * [Guardar datos usando los modelos](guias/unidad2/guardar-datos-modelos.md)
+    * [Obtener datos y elementos de la base de datos](guias/unidad2/obtener-datos-elementos.md)
+    * [Actualizar resgistros](guias/unidad2/actualizar-registros.md)
+    * [Listar todos los artículos](guias/unidad2/listar-articulos.md)
+    * [Borrar elementos](guias/unidad2/borrar-elementos.md)
+    * [Consultas con condiciones, filter y lookups](guias/unidad2/condiciones-filter-lookups.md)
+  * [Ejecutar sql desde Django](guias/unidad2/sql-django.md)
