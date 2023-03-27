@@ -66,3 +66,10 @@
   * [Django Form API](guias/unidad2/django-form-api.md)
   * [Mensajes flash / sesiones flash](guias/unidad2/mensaje-sesiones-flash.md)
   
+### Unidad 3
+* Panel de administración y modelos 
+  * [Django Admin Panel](guias/unidad3/django-admin-panel.md)
+    * [Clase Meta en los modelos de Django](guias/unidad3/clase-meta.md)
+    * [Método para imprimir objetos(modelos)](guias/unidad3/imprimir-objetos.md)
+  * [Configuraciones básicas del panel de administración de Django](guias/unidad3/configuracion-basica-panelAdministracion.md)
+  
