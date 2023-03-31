@@ -72,4 +72,9 @@
     * [Clase Meta en los modelos de Django](guias/unidad3/clase-meta.md)
     * [Método para imprimir objetos(modelos)](guias/unidad3/imprimir-objetos.md)
   * [Configuraciones básicas del panel de administración de Django](guias/unidad3/configuracion-basica-panelAdministracion.md)
+* [Sistema de páginas](guias/unidad3/sistema-paginas.md)
+  * [Crear app para las páginas](guias/unidad3/app-paginas.md)
+  * [Crear migraciones y tablas](guias/unidad3/migraciones-tablas.md)
+  * [Modificar el modelo y agregar orden de páginas](guias/unidad3/modelo-orden-paginas.md)
+
   
