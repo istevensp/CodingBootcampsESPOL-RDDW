@@ -76,5 +76,6 @@
   * [Crear app para las páginas](guias/unidad3/app-paginas.md)
   * [Crear migraciones y tablas](guias/unidad3/migraciones-tablas.md)
   * [Modificar el modelo y agregar orden de páginas](guias/unidad3/modelo-orden-paginas.md)
-
+* [Modelos y relaciones en Django](guias/unidad3/modelos-relaciones-Django.md)
+  * [Cargar modelos en el panel de administración](guias/unidad3/modelos-panel-administracion.md)
   
