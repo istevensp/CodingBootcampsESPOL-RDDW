@@ -78,4 +78,6 @@
   * [Modificar el modelo y agregar orden de páginas](guias/unidad3/modelo-orden-paginas.md)
 * [Modelos y relaciones en Django](guias/unidad3/modelos-relaciones-Django.md)
   * [Cargar modelos en el panel de administración](guias/unidad3/modelos-panel-administracion.md)
+  * [Menú desplegable de categorías](guias/unidad3/menu-desplegable-categorias.md)
+  * [Página para cada artículo](guias/unidad3/pagina-articulo.md)
   
