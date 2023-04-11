@@ -1,5 +1,7 @@
 ## Relational database driven website (RDDD)
 
+## Recursos
+
 ## Guías
 
 ### Unidad 1
@@ -81,3 +83,16 @@
   * [Menú desplegable de categorías](guias/unidad3/menu-desplegable-categorias.md)
   * [Página para cada artículo](guias/unidad3/pagina-articulo.md)
   
+### Ejemplo de proyecto
+
+* Proyecto web empresarial
+  * [Diseño de la web empresarial](guias/proyecto/diseño-web-empresarial.md)
+  * [App Core](guias/proyecto/app-core.md)
+  * [Fusiona el Frontend y el Backend](guias/proyecto/fusion-frontend-backend.md)
+  * [App Services](guias/proyecto/app-services.md)
+  * [App Blog](guias/proyecto/app-blog.md)
+  * [App Social](guias/proyecto/app-social.md)
+  * [App Pages](guias/proyecto/app-pages.md)
+  * [App Contact](guias/proyecto/app-contact.md)
+* Recursos
+  * [Web_Frontend](guias/proyecto/webempresa_Frontend.zip)

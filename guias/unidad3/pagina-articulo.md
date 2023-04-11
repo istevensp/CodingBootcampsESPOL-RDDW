@@ -1,5 +1,7 @@
 ## Página para cada artículo
 
+[Regresar](/CodingBootcampsESPOL-RDDW/)
+
 En el archivo view.py(django\ProyectoDjango\blog\views.py) crearemos una nueva función para mostrar una página por cada artículo.
 
 ```py
