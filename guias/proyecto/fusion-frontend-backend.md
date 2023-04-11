@@ -6,7 +6,7 @@ En esta práctica deberás realizar la fusión del frontend y backend. A continu
 
 Identifica las partes comunes en todas las maquetas HTML y crea una estructura con herencia (base.html, home.html...). Deberás lograr un menú funcional y que se carguen correctamente los ficheros estáticos (css, javascripts, imágenes) de todos los templates.
 
-**Notas:** No olvides activar la app Core y reiniciar el servidor para poder utilizar los recursos estáticos cargándolos con {% load static %} en su respectivo template.
+**Notas:** No olvides activar la app Core y reiniciar el servidor para poder utilizar los recursos estáticos cargándolos con "load static" en su respectivo template.
 
 Dada las instrucciones, empezemos con la ejecución de las mismas.
 
