@@ -2,7 +2,7 @@
 
 [Regresar](/CodingBootcampsESPOL-RDDW/)
 
-Como se mencionó en el [diseño web](./dise%C3%B1o-web-empresarial.md) nuestro proyecto tendrá la app Core que gestionará las páginas estáticas: portada, historia y visítanos.
+Como se mencionó en el diseño web nuestro proyecto tendrá la app Core que gestionará las páginas estáticas: portada, historia y visítanos.
 
 * En la ruta que desees crea la carpeta **proyectoRDDW** y en la terminal ejecuta el comando:
 

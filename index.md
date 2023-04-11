@@ -1,6 +1,5 @@
 ## Relational database driven website (RDDD)
 
-## Recursos
 
 ## Guías
 
