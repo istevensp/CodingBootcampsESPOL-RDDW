@@ -81,7 +81,16 @@
   * [Cargar modelos en el panel de administración](guias/unidad3/modelos-panel-administracion.md)
   * [Menú desplegable de categorías](guias/unidad3/menu-desplegable-categorias.md)
   * [Página para cada artículo](guias/unidad3/pagina-articulo.md)
-  
+
+### Unidad 4
+* Personalizar panel de administración
+  * [Personalizar listados](guias/unidad4/personalizar-listados.md)
+  * [Paginación en Django](guias/unidad4/paginacion-Django.md)
+  * Registro y login de usuarios
+    * [Registro de usuarios](guias/unidad4/registro-usuario.md)
+    * [Login de usuarios](guias/unidad4/login-usuario.md)
+
+
 ### Ejemplo de proyecto
 
 * Proyecto web empresarial
