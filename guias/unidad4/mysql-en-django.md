@@ -5,7 +5,7 @@
 * Para esta sección estaremos trabajando con MySQL Workbench. Accedes con tu usuario y contraseña respectiva. Creamos una nueva base de datos con el nombre de proyectodjango.
 
 <p align="center">
-<img src="../imagenes/mysql7.png" width="50%" alt="Banner"/>
+<img src="../imagenes/mysql7.png" width="40%" alt="Banner"/>
 </p>
 
 * Vamos a configurar la base de datos que habiamos creado, en el archivo de settings.py(django\ProyectoDjango\ProyectoDjango\settings.py) y buscaremos la sección de **DATABASES**. Deberás añadirle el user, password y puerto que tengas configurado en tu MySQL Workbench.
@@ -32,7 +32,7 @@ python manage.py migrate
 * Verificamos en el MySQL Workbench la migración y visualizaremos las tablas y todo lo que se encontraba en nuestros modelos ya definidos. Tenedremos todo la estructura de nuestra base de datos.
 
 <p align="center">
-<img src="../imagenes/mysql3.png" width="50%" alt="Banner"/>
+<img src="../imagenes/mysql3.png" width="25%" alt="Banner"/>
 </p>
 
 * Creamos un superusuario ejecutando el siguiente comando:
@@ -60,5 +60,5 @@ python manage.py runserver
 * Actualizamos la base de datos en MySQL Workbench y visualizaremos la tabla de **blog_category** que tendrá la categoría de programación recién creada.
 
 <p align="center">
-<img src="../imagenes/mysql6.png" width="50%" alt="Banner"/>
+<img src="../imagenes/mysql6.png" width="40%" alt="Banner"/>
 </p>
