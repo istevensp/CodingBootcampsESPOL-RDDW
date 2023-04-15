@@ -89,7 +89,7 @@
   * Registro y login de usuarios
     * [Registro de usuarios](guias/unidad4/registro-usuario.md)
     * [Login de usuarios](guias/unidad4/login-usuario.md)
-
+  * [MySQL en Django](guias/unidad4/mysql-en-django.md)
 
 ### Ejemplo de proyecto
 
